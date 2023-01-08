@@ -7,3 +7,6 @@ function hideDetail(){
     document.querySelector('#desc').style.display = "none";
     document.querySelector('#open').style.display = "block";
 }
+
+
+

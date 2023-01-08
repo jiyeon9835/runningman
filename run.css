@@ -471,9 +471,11 @@ a{
 
 .program1 img{
     border-radius: 20%;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: 50px;
     box-shadow: 5px 5px 25px 5px white;
+    width: 360px;
+    height: 450px;
 }
 
 
